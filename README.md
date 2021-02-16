@@ -2,7 +2,7 @@
 ![screenshot](https://github.com/fastrgv/Portable-Cpp-Sound-OpenAL/blob/main/cppSound.jpeg)
 
 
-Here is the main release with all source code and resources:
+Here is the main release with all source code, examples and resources:
 
 https://github.com/fastrgv/Portable-Cpp-Sound-OpenAL/releases/download/v1.0.2/cppOal_17feb21.7z
 
