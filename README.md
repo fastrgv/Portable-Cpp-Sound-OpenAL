@@ -65,6 +65,15 @@ Note that the Windows executables need to be colocated with
 
 in order to run. (included).
 
+---------------------------------------
+
+## SoundFiles
+Kick & choir sound is from freesound.org, so is covered by the Creative Commons Noncommercial License;  see
+http://creativecommons.org/licenses/by-nc/3.0/legalcode/
+
+
+
+
 --------------------------
 ## License:
 
