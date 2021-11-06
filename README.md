@@ -33,7 +33,7 @@ Type "7z x filename" to extract the archive.
 
 ## Description
 
-This is a cross-platform sound-playing package for C++ apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
+This is a sound-playing utility for C++ apps that can asynchronously start and stop music loops, as well as initiate transient sounds, and allow unlimited sound concurrency.
 
 It plays WAV files, via OpenAL, and runs on Windows, OSX, and linux platforms. Nice examples are included.
 
