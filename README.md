@@ -77,8 +77,7 @@ in order to run. (included).
 ---------------------------------------
 
 ## SoundFiles
-Kick & choir sound is from freesound.org, so is covered by the Creative Commons Noncommercial License;  see
-http://creativecommons.org/licenses/by-nc/3.0/legalcode/
+Kick & choir sound is from freesound.org, so is covered by the Creative Commons CC0 License.
 
 
 
