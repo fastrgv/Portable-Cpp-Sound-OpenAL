@@ -17,6 +17,12 @@ Type "7z x filename" to extract the archive.
 
 ## Sound utility for Windows, OSX, and Linux
 
+
+**ver 1.0.4 -- 16sep2022**
+
+* Updated to use GNU g++ for OSX, linux, W32.
+
+
 **ver 1.0.3 -- 27apr2022**
 
 * Updated DLLs for 32-bit Windows examples.
