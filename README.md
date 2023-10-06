@@ -16,9 +16,18 @@ Type "7z x filename" to extract the archive.
 
 
 
-# Portable C++ Sound using OpenAL
 
-## Sound utility for Windows, OSX, and Linux
+another link:
+https://sourceforge.net/projects/portable-cpp-sound-openal/
+
+
+# Portable C++ Sound -- using pthreads & OpenAL
+## Sound utility for Windows, OSX, & Linux
+
+
+**ver 1.0.6 -- 06oct2023**
+
+* Updated support of Mac/OSX.
 
 
 **ver 1.0.5 -- 09nov2022**
@@ -60,11 +69,19 @@ Cross platform sound-playing utility for C++ apps with its own binding to OpenAL
 
 ## Full Description
 
-This is a sound-playing utility for C++ apps that can asynchronously start and stop music loops, as well as initiate transient sounds, and allowing unlimited sound concurrency.
+
+This is a sound-playing utility for C++ that can play WAV files on Windows, OSX, and Linux, using pthreads and OpenAL libraries.
+
+It provides sound-playing capabilities for C++ apps to:
+
+* asynchronously start and stop music/sound loops, 
+* initiate transient sounds,
+* allow unlimited sound concurrency.
+
 
 It plays WAV files, via OpenAL, and runs on Windows, OSX, and linux platforms. Nice examples for each O.S. are included.
 
-It is suitable for any Cpp application that needs music, sound loops or transient sound effects; eg. games.
+It is suitable for any C++ application that needs music, sound loops or transient sound effects; eg. games.
 
 There are no software depencies; this utility is self-contained.
 
@@ -74,6 +91,7 @@ There are no software depencies; this utility is self-contained.
 ## Usage:
 
 The proper command to extract the archive and maintain the directory structure is "7z x filename".
+On OSX you can use Keka.
 
 See the simple interface description in file snd4cpp.hpp.
 
@@ -84,7 +102,7 @@ Note: an error occurs if there is something fishy about the WAV file. I always g
 ========================================================
 ## What is so great about this package?
 
-This package is a non-platform-specific C++ code that uses Pthreads and compiles on Windows, OSX and Linux. It is used in my games RufasGate & RufasSliders (on SourceForge and GitHub).
+This package is a non-platform-specific C++ code that uses Pthreads and compiles on Windows, OSX and Linux. It is used in my game RufasSliders (on SourceForge and GitHub).
 
 Open source developers are welcome to help improve or extend this app.
 Developer or not, send comments, suggestions or questions to:
@@ -117,7 +135,7 @@ To find a recent Ada compiler;  eg. GNU-Ada...try this source:
 This app is covered by the GNU GPL v3 as indicated in the sources:
 
 
-Copyright (C) 2022  <fastrgv@gmail.com>
+Copyright (C) 2023  <fastrgv@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -131,4 +149,6 @@ GNU General Public License for more details.
 
 You may read the full text of the GNU General Public License
 at <http://www.gnu.org/licenses/>.
+
+
 
