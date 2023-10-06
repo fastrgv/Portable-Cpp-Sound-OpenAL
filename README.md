@@ -4,7 +4,7 @@
 
 Here is the main release with all source code, examples and resources:
 
-https://github.com/fastrgv/Portable-Cpp-Sound-OpenAL/releases/download/v1.0.5/coal8nov22.7z
+https://github.com/fastrgv/Portable-Cpp-Sound-OpenAL/releases/download/v1.0.6/coal6oct23.7z
 
 Type "7z x filename" to extract the archive.
 
