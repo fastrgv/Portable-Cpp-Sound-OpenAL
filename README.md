@@ -29,6 +29,10 @@ https://sourceforge.net/projects/portable-cpp-sound-openal/
 # Portable C++ Sound -- using pthreads & OpenAL
 ## Sound utility for Windows, OSX, & Linux
 
+**ver 1.0.7 -- 18feb2024**
+
+* Added volume control.
+
 
 **ver 1.0.6 -- 06oct2023**
 
